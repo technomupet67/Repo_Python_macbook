@@ -1,0 +1,50 @@
+
+Vehicle Name: Polar~X
+Car Version: 2018.48.12.1 d6999f5
+Odometer : 13184.95 Miles
+Odometer : 21214.58 Km
+Locked ?: True
+
+
+======= Charge Sate  ========
+Charging State: Charging
+Charger Actual Current: 32 amps
+Charger Voltage: 243
+Charger: 7776 watts
+Charger Power KW: 8.0
+Charge Rate: 14.9 miles/hr
+Charge Rate: 24.0 km/hr
+Charge Limit: 90
+Battery level: 86
+Battery usable level: 86
+Time to full charge: 0.58
+Cost to full charge: 0.68
+Battery Range : 297.6 Miles
+Battery Range : 478.8 Kilometers
+Ideal Batt. range: 238.3 miles
+Ideal Batt. range: 383.5 km
+Estimated range: 137.0 miles
+Estimated range: 220.4 km
+Estimated versus Battery Range 46.0 percent
+Estimated versus Ideal Battery Range 57.5 percent
+Charge energy added: 13.46
+GBP energy added: 2.02
+Ideal Miles added: 38.5
+Ideal Km added: 61.9
+Rated Miles added: 48.5
+Rated Km added: 78.0
+
+
+====== Climate Sate  =======
+Is Climate on ?: True
+Temp setting: 21.0
+Inside temp: 11.8
+Outside temp: 3.5
+
+
+=== Driving & Location  ====
+Power: -5
+Longitude: -0.30138
+Latitude: 51.52912
+Speed: None
+Heading: 92

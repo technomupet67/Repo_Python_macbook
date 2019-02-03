@@ -1,0 +1,51 @@
+Data from Car :
+18/01/2019 - 18:10:56
+
+Ideal Miles added: 14.5
+Ideal Km added: 23.3
+Rated Miles added: 18.5
+Rated Km added: 29.8
+Charger Power KW: 0.0
+
+
+user_charge_enable_request , None
+scheduled_charging_start_time , None
+charge_current_request , 24
+charge_to_max_range , False
+charger_phases , None
+usable_battery_level , 75
+battery_heater_on , False
+scheduled_charging_pending , False
+battery_range , 260.09
+charger_power , 0
+charge_limit_soc , 90
+max_range_charge_counter , 0
+trip_charging , False
+charger_actual_current , 0
+charge_enable_request , True
+fast_charger_brand , <invalid>
+fast_charger_type , <invalid>
+charging_state , Disconnected
+charge_limit_soc_std , 90
+managed_charging_start_time , None
+battery_level , 76
+charge_energy_added , 5.12
+charge_port_door_open , False
+charger_pilot_current , 24
+timestamp , 1547835057249
+charge_limit_soc_max , 100
+ideal_battery_range , 208.31
+managed_charging_active , False
+conn_charge_cable , <invalid>
+not_enough_power_to_heat , False
+fast_charger_present , False
+charge_port_latch , Blocking
+managed_charging_user_canceled , False
+time_to_full_charge , 0.0
+est_battery_range , 157.93
+charge_rate , 0.0
+charger_voltage , 0
+charge_current_request_max , 24
+charge_miles_added_ideal , 14.5
+charge_limit_soc_min , 50
+charge_miles_added_rated , 18.5
